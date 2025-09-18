@@ -1,0 +1,9 @@
+{
+  "framework": "openai-agents-sdk",
+  "agents": {
+    "faq_agent": "avixato.json",
+    "seat_booking_agent": "avixato.json",
+    "triage_agent": "avixato.json"
+  },
+  "env": ".env"
+}
