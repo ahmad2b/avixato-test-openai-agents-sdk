@@ -1,6 +1,8 @@
 {
   "framework": "openai-agents-sdk",
   "agents": {
+    "faq_agent": "main.py",
+    "seat_booking_agent": "main.py",
     "triage_agent": "main.py"
   },
   "env": ".env"
